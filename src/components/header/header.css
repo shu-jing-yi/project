@@ -1,0 +1,11 @@
+.admin_header .header_top {
+  height: 39px;
+  line-height: 39px;
+  border-bottom: 1px solid #ccc;
+}
+
+.admin_header .header_bottom {
+  height: 39px;
+  line-height: 39px;
+  border-bottom: 1px solid #ccc;
+}
